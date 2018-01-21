@@ -1,5 +1,5 @@
 # TypeScriptRN
-This project is a barebone implementation of a React Native project using Typescript code.
+This project is a barebone implementation of a React Native project using Typescript code. This just shows a Hello World message.
 
 ## How to run this project
 * Download or clone the project from github
